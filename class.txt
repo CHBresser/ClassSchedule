@@ -1,0 +1,5 @@
+LWA 211 3 Wesolak J M141 3.6 TRUE
+POL 103 4 Fortin B J121 3.4 TRUE
+ENG 112 3 Tetloff S S062 3.1 TRUE
+CST 280 3 Klingler T K114 2.9 TRUE
+ -1 -1    -1 TRUE
